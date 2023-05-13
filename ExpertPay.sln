@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpertPay", "ExpertPay.csproj", "{57EA6F76-95C4-4564-BFA4-D379A2B079CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57EA6F76-95C4-4564-BFA4-D379A2B079CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EA6F76-95C4-4564-BFA4-D379A2B079CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EA6F76-95C4-4564-BFA4-D379A2B079CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EA6F76-95C4-4564-BFA4-D379A2B079CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA165D5B-6D59-482C-862F-D92BB3751197}
+	EndGlobalSection
+EndGlobal
